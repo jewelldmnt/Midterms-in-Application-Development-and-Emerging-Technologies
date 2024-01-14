@@ -1,3 +1,3 @@
-# Main Branch (Production Environment)
+# Development Branch
 
-Welcome to the main branch of our repository, dedicated to the production environment. This branch houses the production-ready code, representing the stable and deployable version of our application.
+Explore the development branch, the heart of our ongoing work and innovation. This branch serves as the primary environment for coding, feature integration, and continuous improvement.
